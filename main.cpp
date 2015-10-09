@@ -7,5 +7,6 @@ int main()
   cin >>x;
   cin >>y;
 
-  cout <<"sum=" <<x+y;
+  cout <<"sum=" <<x+y <<"\n";
+  cout <<"x-y=" <<x-y;
 }
