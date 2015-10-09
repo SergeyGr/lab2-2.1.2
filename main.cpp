@@ -1,5 +1,6 @@
 #include "sdt.h"
 
+//учебная программа
 int main()
 {
   cout <<"enter 2 numbers\n";
